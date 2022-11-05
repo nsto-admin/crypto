@@ -1,0 +1,16 @@
+{
+  "chainId": 101,
+  "address": "6M6zE6G9929V5wfD9iMR1Z8jpFdJL7qQMQ3GBEf2h6Mn",
+  "symbol": "NTO",
+  "name": "ENERSTO  token  coin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/nsto-admin/crypto/main/logo.png",
+  "tags": [
+    "utility-token"
+  ],
+  "extensions": {
+    "instagram": "http://instagram.com/enersto_powerstorage",
+    "twitter": "https://twitter.com/enersto_nrj",
+    "website": "http://www.enersto.com/"
+  }
+}
